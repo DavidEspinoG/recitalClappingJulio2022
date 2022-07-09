@@ -527,7 +527,7 @@ recital4 = [
   },
   {
     "": 7,
-    "Nombre": "Isabella",
+    "Nombre": "Isabella Santos",
     "Escuela": "Orquestarte",
     "Docente": "David",
     "Edad": 5,

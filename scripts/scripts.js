@@ -1,0 +1,20 @@
+function recital(recital, id) {
+    const participantes = document.getElementById(id)
+    recital.forEach(participacion => {
+        const contenedor = document.createElement('div')
+        const pAlumno = document.createElement('p')
+        const nomAlumno = document.createTextNode(participacion['Nombre'])
+        const pRepertorio = document.createElement('p')
+        const repertorio = document.createTextNode(participacion['Repertorio'])
+        const linea = document.createElement('hr')
+        contenedor.appendChild(linea)
+        pAlumno.appendChild(nomAlumno)
+        contenedor.appendChild(pAlumno)
+        pRepertorio.appendChild(repertorio)
+        contenedor.appendChild(pRepertorio)
+        participantes.appendChild(contenedor)
+        pAlumno.classList.add('alumno')
+        contenedor.classList.add('participacion')
+        pRepertorio.classList.add('repertorio')
+    })
+}

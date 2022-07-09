@@ -512,19 +512,19 @@ recital4 = [
     "Boletos \nExtras": "",
     "Pago": "Pendiente"
   },
-  {
-    "": 6,
-    "Nombre": "Carolina Maldonado Cruz",
-    "Escuela": "Orquestarte",
-    "Docente": "David",
-    "Edad": 10,
-    "Nivel": "Thomson grado 1",
-    "Repertorio": "1. Campanas de Escocia\n2. El amolador\n3. Los cisnes en el lago \n4. Gorrión gorrión",
-    "Duración": 8,
-    "Horario \nAsinagdo": "",
-    "Boletos \nExtras": "",
-    "Pago": "Pagado $650"
-  },
+  // {
+  //   "": 6,
+  //   "Nombre": "Carolina Maldonado Cruz",
+  //   "Escuela": "Orquestarte",
+  //   "Docente": "David",
+  //   "Edad": 10,
+  //   "Nivel": "Thomson grado 1",
+  //   "Repertorio": "1. Campanas de Escocia\n2. El amolador\n3. Los cisnes en el lago \n4. Gorrión gorrión",
+  //   "Duración": 8,
+  //   "Horario \nAsinagdo": "",
+  //   "Boletos \nExtras": "",
+  //   "Pago": "Pagado $650"
+  // },
   {
     "": 7,
     "Nombre": "Isabella Santos García",

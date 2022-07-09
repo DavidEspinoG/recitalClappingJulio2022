@@ -527,7 +527,7 @@ recital4 = [
   },
   {
     "": 7,
-    "Nombre": "Isabella Santos",
+    "Nombre": "Isabella Santos García",
     "Escuela": "Orquestarte",
     "Docente": "David",
     "Edad": 5,
@@ -553,7 +553,7 @@ recital4 = [
   },
   {
     "": 9,
-    "Nombre": "Janice Montero",
+    "Nombre": "Janice Cristina Montero Pasos",
     "Escuela": "Orquestarte",
     "Docente": "David",
     "Edad": 20,
@@ -566,7 +566,7 @@ recital4 = [
   },
   {
     "": 10,
-    "Nombre": "Lizeth Rojas",
+    "Nombre": "Lizzy Reds",
     "Escuela": "Orquestarte",
     "Docente": "David",
     "Edad": 41,
@@ -579,7 +579,7 @@ recital4 = [
   },
   {
     "": 11,
-    "Nombre": "Isabella Santos",
+    "Nombre": "Isabella Santos García",
     "Escuela": "Orquestarte",
     "Docente": "David",
     "Edad": 5,

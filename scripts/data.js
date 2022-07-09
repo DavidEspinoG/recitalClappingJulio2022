@@ -553,7 +553,7 @@ recital4 = [
   },
   {
     "": 9,
-    "Nombre": "Janice Montero",
+    "Nombre": "Janice Montero Probando",
     "Escuela": "Orquestarte",
     "Docente": "David",
     "Edad": 20,
